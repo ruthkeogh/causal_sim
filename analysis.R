@@ -48,7 +48,7 @@ for(i in 1:n.sim){
   print(i)
   
   #-----
-  #simulate data using dat_sim_TRUE_VALUES_1
+  #simulate data using dat_sim.R
 
   source("dat_sim.R")
   
